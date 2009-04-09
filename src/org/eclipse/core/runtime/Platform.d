@@ -24,7 +24,7 @@ import java.util.Map;
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 //
-import org.eclipse.osgi.framework.Bundle;
+import org.osgi.framework.Bundle;
 // import org.osgi.service.packageadmin.PackageAdmin;
 //
 // import org.eclipse.core.internal.runtime.CompatibilityHelper;
